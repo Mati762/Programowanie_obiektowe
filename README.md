@@ -14,3 +14,4 @@ Katalogi w repozytorium odpowiadają kolejnym zajęciom laboratoryjnym.
 Wewnątrz każdego z nich znajdują się pliki źródłowe (.java) z rozwiązaniami przypisanych na dany tydzień zadań.
 
 **[Podstawy języka, diagnostyka, proste pętle, modelowanie obiektowe](lab_01/)
+**[Klasy, obiekty, referencje, konstruktory, kompozycja](lab_02)**[cite: 12]
