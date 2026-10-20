@@ -48,6 +48,12 @@ public class Car {
         kopia.productionYear = 2005;
         oryginalne.showInformation();
 
+        // Zadanie 9 - NULL
+        Car car = null;
+        if (car != null) {
+            car.showInformation();
+        }
+
     }
 
 }
