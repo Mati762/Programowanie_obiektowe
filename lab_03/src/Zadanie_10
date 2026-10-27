@@ -1,0 +1,16 @@
+1. studentName w klasie Student,
+2. numberOfStudents w klasie Student,
+3. PI w klasie matematycznej,
+4. balance w klasie BankAccount,
+5. calculateVat(double price) w bezstanowej klasie pomocniczej,
+6. carMileage w klasie Car,
+7. MAX_LOGIN_ATTEMPTS w klasie LoginPolicy
+
+Odpowiedzi:
+1. instancyjny - to imie przypisane do każdego unikalnego studenta
+2. statyczny - to wspólny licznik całkowitej liczby utworzonych instancji tej klsy
+3. statyczny - niezmienna wartosc z ktorej korzysta sie bez tworzenia obiektu
+4. instancyjny - balans konta jest niezależny i przypisany do jednego konta
+5. statyczny - w bezstanowej klasie operuje wyłącznie na przekazanym argumencie i nie wykorzystuje stanu obiektu
+6. instancyjny - fizyczny przebieg nalezacy do jednego samochodu
+7. statyczny - ta maksymalna liczba znakow dotyczy wszystkich kont
