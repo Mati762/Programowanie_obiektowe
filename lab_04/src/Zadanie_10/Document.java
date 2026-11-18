@@ -1,4 +1,4 @@
-package Zadanie_10;
+/*package Zadanie_10;
 
 public class Document {
 
@@ -7,3 +7,4 @@ public class Document {
         return new Document();
     }
 }
+*/

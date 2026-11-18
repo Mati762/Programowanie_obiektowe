@@ -1,4 +1,5 @@
-package Zadanie_10;
+
+/*package Zadanie_10;
 
 public class Report extends Document{
 
@@ -10,3 +11,4 @@ public class Report extends Document{
 
 
 }
+*/
